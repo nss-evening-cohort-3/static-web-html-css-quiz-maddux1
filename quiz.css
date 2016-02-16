@@ -10,8 +10,11 @@ article.productCard {
   margin: 0 1%;
 }
 
-h1 {
+header {
   border: 1px dotted lightgray;
+}
+
+h1 {
   text-align: center;
 }
 
