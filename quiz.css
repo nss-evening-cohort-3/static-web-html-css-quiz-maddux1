@@ -1,0 +1,61 @@
+body {
+  width: 100%;
+}
+
+/*STYLING FOR PRODUCTS PAGE*/
+article.productCard {
+  border: 1px solid lightblue;
+  float: left;
+  width: 30%;
+  margin: 0 1%;
+}
+
+header {
+  border: 1px dotted lightgray;
+}
+
+h1 {
+  text-align: center;
+}
+
+title {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p.prodDesc {
+  text-align: justify;
+  padding: 5%;
+}
+
+p.specs {
+  font-weight: bold;
+  font-size: .8em;
+  line-height: .1;
+}
+
+p.specsValid {
+  font-weight: bold;
+  font-size: .5em;
+  font-style: italic;
+}
+
+p.availability {
+  width: 100%;
+  background-color: darkgrey;
+  color: yellow;
+}
+
+span.availProd {
+  color: red;
+  font-weight: bold;
+}
+
+.prices {
+  line-height: .1;
+  font-size: .8em;
+}
